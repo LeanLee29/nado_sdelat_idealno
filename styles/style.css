@@ -50,7 +50,7 @@ body {
 video {
   position: absolute;
   width: 800px;
-  height: 900px;
+  height: 600px;
   object-fit: cover;
   object-position: center;
   z-index: -1;
@@ -69,7 +69,7 @@ video {
   text-transform: uppercase;
   width: 739px;
   height: 408px;
-  margin-top: 105px;
+  margin-top: 63px;
 }
 .page__heading:hover::after {
   position: absolute;
@@ -86,7 +86,7 @@ video {
   text-align: center;
 }
 
-.page__title{
+.page__title {
   position: absolute;
 }
 
