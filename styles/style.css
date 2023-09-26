@@ -75,7 +75,7 @@ video {
 .page__heading:hover::after {
   position: absolute;
   content: "";
-  width: 745px;
+  width: 748px;
   height: 160px;
   border-radius: 28px;
   border-top: 2px solid #000;
@@ -102,7 +102,7 @@ video {
   width: 654px;
   text-align: left;
   bottom: 181px;
-  right: 28px;
+  right: 28.5px;
   z-index: 2;
   text-transform: none;
   letter-spacing: 1.1px;
