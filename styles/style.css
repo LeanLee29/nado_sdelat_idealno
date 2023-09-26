@@ -69,7 +69,7 @@ video {
   text-transform: uppercase;
   width: 725px;
   height: 409px;
-  margin-top: 61px;
+  margin-top: 60px;
   margin-left: 3px;
 }
 .page__heading:hover::after {
@@ -101,8 +101,8 @@ video {
   height: 70px;
   width: 654px;
   text-align: left;
-  bottom: 185px;
-  right: 33px;
+  bottom: 181px;
+  right: 29px;
   z-index: 2;
   text-transform: none;
   letter-spacing: 1px;
