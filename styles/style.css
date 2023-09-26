@@ -70,12 +70,12 @@ video {
   width: 725px;
   height: 409px;
   margin-top: 60px;
-  margin-left: 3px;
+  margin-left: 1px;
 }
 .page__heading:hover::after {
   position: absolute;
   content: "";
-  width: 745px;
+  width: 743px;
   height: 160px;
   border-radius: 20px;
   border-top: 2px solid #000;
@@ -84,8 +84,8 @@ video {
   border-bottom: 15px solid #000;
   background: #fff;
   z-index: 1;
-  top: 117px;
-  right: -13px;
+  top: 119px;
+  right: -17px;
 }
 
 .page__heading:hover::before {
