@@ -65,12 +65,13 @@ video {
   font-style: normal;
   font-weight: 800;
   line-height: normal;
-  letter-spacing: 4.06px;
+  letter-spacing: 4.01px;
   text-transform: uppercase;
-  width: 725px;
+  width: 727px;
   height: 409px;
   margin-top: 60px;
   margin-left: 1px;
+  padding-left: 1.7px;
 }
 .page__heading:hover::after {
   position: absolute;
@@ -94,10 +95,10 @@ video {
   color: #000;
   position: absolute;
   font-family: Raleway-Regular;
-  font-size: 33px;
+  font-size: 32.98px;
   font-style:normal;
   font-weight: 400;
-  line-height: 35px;
+  line-height: 35.2px;
   height: 70px;
   width: 654px;
   text-align: left;
